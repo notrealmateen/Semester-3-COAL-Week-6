@@ -1,0 +1,4 @@
+﻿  Assembling AddSub2.asm...
+AddSub2.asm(3): warning A4011: multiple .MODEL directives found : .MODEL ignored
+AddSub2.asm(27): error A2026: constant expected
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Sg /Zi /Fo"Debug\AddSub2.obj" /Fl"Project.lst" /I "C:\Irvine" /W3 /errorReport:prompt  /TaAddSub2.asm" exited with code 1.

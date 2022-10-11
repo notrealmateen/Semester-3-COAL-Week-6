@@ -1,0 +1,6 @@
+D:\Semester3\Computer Organization and Assembly Language-Lab\Lab2\Project32_VS2022\Debug\Project.exe
+D:\Semester3\Assignments\Computer Organization and Assembly Language-Lab\Lab2\Project32_VS2022\Debug\Project.exe
+D:\Semester3\Assignments\Computer Organization and Assembly Language-Lab\Lab3\Register Assignment\Debug\Project.exe
+D:\Semester3\Assignments\Computer Organization and Assembly Language-Lab\Lab3\Equation Assignment\Debug\Project.exe
+D:\Semester3\Assignments\Computer Organization and Assembly Language-Lab\Lab5\Equation Assignment\Debug\Project.exe
+D:\Semester3\Assignments\Computer Organization and Assembly Language-Lab\Lab5\Task1\Debug\Project.exe
